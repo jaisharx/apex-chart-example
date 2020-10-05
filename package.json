@@ -22,5 +22,8 @@
     "parcel-plugin-nuke-dist": "^1.0.1",
     "parcel": "^1.12.4",
     "shx": "^0.3.2"
+  },
+  "dependencies": {
+    "apexcharts": "^3.22.0"
   }
 }
