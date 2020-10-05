@@ -1,6 +1,0 @@
-# js packages
-node_modules
-
-# parcel files
-.cache
-dist
