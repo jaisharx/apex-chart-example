@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AAAA,KACI,sCACJ,CAEA,WACI,gBAAiB,CACjB,eAAgB,CAChB,SAAU,CACV,iBACJ","file":"style.16df4584.css","sourceRoot":"../src","sourcesContent":["body {\n    font-family: Arial, Helvetica, sans-serif;\n}\n\n.container {\n    margin: 70px auto;\n    overflow: hidden;\n    width: 80%;\n    text-align: center;\n}"]}
