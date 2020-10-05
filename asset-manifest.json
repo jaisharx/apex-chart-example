@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/apex-chart-example/static/css/main.14133bee.chunk.css",
+    "main.js": "/apex-chart-example/static/js/main.8bae955b.chunk.js",
+    "main.js.map": "/apex-chart-example/static/js/main.8bae955b.chunk.js.map",
+    "runtime-main.js": "/apex-chart-example/static/js/runtime-main.797ff52f.js",
+    "runtime-main.js.map": "/apex-chart-example/static/js/runtime-main.797ff52f.js.map",
+    "static/js/2.ee63c3fe.chunk.js": "/apex-chart-example/static/js/2.ee63c3fe.chunk.js",
+    "static/js/2.ee63c3fe.chunk.js.map": "/apex-chart-example/static/js/2.ee63c3fe.chunk.js.map",
+    "index.html": "/apex-chart-example/index.html",
+    "precache-manifest.d41be50139115ef9b627c879490187e9.js": "/apex-chart-example/precache-manifest.d41be50139115ef9b627c879490187e9.js",
+    "service-worker.js": "/apex-chart-example/service-worker.js",
+    "static/css/main.14133bee.chunk.css.map": "/apex-chart-example/static/css/main.14133bee.chunk.css.map",
+    "static/js/2.ee63c3fe.chunk.js.LICENSE.txt": "/apex-chart-example/static/js/2.ee63c3fe.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.797ff52f.js",
+    "static/js/2.ee63c3fe.chunk.js",
+    "static/css/main.14133bee.chunk.css",
+    "static/js/main.8bae955b.chunk.js"
+  ]
+}
