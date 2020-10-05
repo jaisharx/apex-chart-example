@@ -1,0 +1,26 @@
+{
+  "name": "apex-chart-example",
+  "version": "1.0.0",
+  "description": "apex chart examples",
+  "scripts": {
+    "start": "parcel src/index.html --open",
+    "build": "parcel build src/index.html --public-url .",
+    "clean": "shx rm -rf .cache dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaisharx/apex-chart-example.git"
+  },
+  "keywords": [],
+  "author": "jai-sharma <sendtojsharma@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jaisharx/apex-chart-example/issues"
+  },
+  "homepage": "https://github.com/jaisharx/apex-chart-example#readme",
+  "devDependencies": {
+    "parcel-plugin-nuke-dist": "^1.0.1",
+    "parcel": "^1.12.4",
+    "shx": "^0.3.2"
+  }
+}
