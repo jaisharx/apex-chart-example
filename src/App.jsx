@@ -1,9 +1,10 @@
 import React from 'react';
+import PopulationChart from "./components/PopulationChart";
 
 function App() {
   return (
-    <div className="App">
-        <h1>Hello, React</h1>
+    <div className="container">
+        <PopulationChart />
     </div>
   );
 }

@@ -4,7 +4,9 @@
   "private": true,
   "homepage": "/apex-chart-example",
   "dependencies": {
+    "apexcharts": "^3.22.0",
     "react": "^16.13.1",
+    "react-apexcharts": "^1.3.7",
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.3"
   },
