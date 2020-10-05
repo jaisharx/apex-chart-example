@@ -1,7 +1,7 @@
 # Apex Chart Example
 Short and simple vanilla usage of apex charts. Enjoy.
 
-<!-- <img src="preview.png"> -->
+<img src="preview.png">
 
 ## Usage
 
